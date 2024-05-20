@@ -1,7 +1,7 @@
 ## Speech-Emotion-Recognition-SoC
 #Week 1
 
-Hello my dear friends, lets begin our endeavour with the basics of python and essential libraries.
+Hello my dear friends, lets begin our endeavors with the basics of python and essential libraries.
 
 1.NumPy assignment: You will be given a series of tasks to complete in the NumPy_Assignment.py file. Each task will involve using Numpy functions to perform specific operations on the given data. Read the comments in the script for instructions on each task. 
 
