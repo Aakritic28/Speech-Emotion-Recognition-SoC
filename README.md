@@ -1,48 +1,43 @@
 ## Speech-Emotion-Recognition-SoC
-#Week 1
+## Week 2
 
-Hello my dear friends, lets begin our endeavors with the basics of python and essential libraries.
+Hola Amigos, Let's start with our week2, where we will learn about regression and classification models.
 
-1.NumPy assignment: You will be given a series of tasks to complete in the NumPy_Assignment.py file. Each task will involve using Numpy functions to perform specific operations on the given data. Read the comments in the script for instructions on each task. 
+#TASK 
 
-2.Matplotlib and pandas: You are given three exercises which will warmup you plotting skills.
+ You have to implement Logistic Regression and SVM classification model from scratch.
 
-3.Question.py file, this is to test your basics and how you implement, what you have learnt.
+## What is the difference between regression and classfication?
+Regression helps predict a continuous quantity, classification predicts discrete class labels.
 
-## Week-1 Resources
+-[Difference explanation](https://www.javatpoint.com/regression-vs-classification-in-machine-learning)
 
-## Python Basics
+However, logistic regression is used in classification but still called as regression because we predict the probability (which is continuous) for different classes.
 
-Throughout this course, you will primarily use Python for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics:
+-[An Interesting Article](https://ashish-mehta.medium.com/why-is-logistic-regression-called-regression-if-it-is-a-classification-algorithm-9c2a166e7b74)
 
-- [Python Basics Video](https://youtu.be/kqtD5dpn9C8?feature=shared)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [Python Basics Playlist](https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&feature=shared)
+Videos will be explaining the intuition and concept and articles will be focusing on python code of the regression and classification models.
 
-## Colab Notebooks
+## Regression
+#Linear Regression
+-[Video Tutorial](https://youtu.be/7ArmBVF2dCs?si=A9VVZMGBa51alAIJ)
+-[Article](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/)
 
-In this course, we'll use Colab Jupyter Notebooks for coding exercises. Colab allows you to write and run code in separate cells, facilitating easier debugging. It's a hosted Jupyter notebook service with free access to computing resources, including GPUs and TPUs. Learn the basics of Colab with this [introduction guide](https://youtu.be/iMlMfrXJYSg?feature=shared).
+#Logistic Regression
+-[Video Tutorial](https://youtu.be/yIYKR4sgzI8?si=h-myOtJxpLLIoXB-)
+-[Article](https://www.geeksforgeeks.org/implementation-of-logistic-regression-from-scratch-using-python/)
 
-## NumPy Basics
+#Ridge Regression
+-[Video Tutorial](https://youtu.be/Q81RR3yKn30?si=PSsC-qxrluSk_eLp)
+-[Article](https://www.geeksforgeeks.org/implementation-of-ridge-regression-from-scratch-using-python/)
 
-NumPy (Numerical Python) is a fundamental library for linear algebra in Python. It plays a crucial role in AI/ML and data science by enabling efficient mathematical and logical operations on arrays. Explore NumPy through the following resources:
+## Classification
+We are going to look at 2 classification models:
 
-- [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
-- [NumPy W3Schools Tutorial](https://www.w3schools.com/python/numpy/default.asp)
-- [NumPy Video Tutorial](https://youtu.be/QUT1VHiLmmI?feature=shared)
+#Naive Bayes Classifier
+-[Video Tutorial](https://youtu.be/O2L2Uv9pdDA?si=gIi_vdJOZmGimaJ-)
+-[Article](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
 
-## Matplotlib
-
-Matplotlib is Python's essential plotting library, widely used for data visualization. It supports various types of plots and is the foundation for other visualization packages like pandas and Seaborn. Get familiar with Matplotlib through these resources:
-
-- [Matplotlib W3Schools Intro](https://www.w3schools.com/python/matplotlib_intro.asp)
-- [Matplotlib Documentation](https://matplotlib.org/)
-- [Matplotlib Video Tutorial](https://youtu.be/OZOOLe2imFo?feature=shared)
-
-## Pandas
-
-Pandas is a Python library used for working with datasets. It is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. Pandas has data structures for data analysis. The most commonly used data structures are Series and DataFrame. Series is one-dimensional. It consists of one column. DataFrame is two dimensional. It consists of rows and columns. For basic introduction use the following guide:
-
-- [Pandas Documentation](https://pandas.pydata.org/)
-- [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
-- [Pandas Video Tutorial](https://youtu.be/vmEHCJofslg?feature=shared)
+#Support Vector Machines (SVM)
+-[Video Tutorial](https://youtu.be/ny1iZ5A8ilA?si=3wjFV4-fxQjY5mVT)
+-[Article](https://medium.com/@gallettilance/support-vector-machines-16241417ee6d)
