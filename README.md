@@ -40,4 +40,5 @@ We are going to look at 2 classification models:
 
 #Support Vector Machines (SVM)
 -[Video Tutorial](https://youtu.be/ny1iZ5A8ilA?si=3wjFV4-fxQjY5mVT)
+-[MIT OCW lecture on SVMs](https://youtu.be/_PwhiWxHK8o) 
 -[Article](https://medium.com/@gallettilance/support-vector-machines-16241417ee6d)
