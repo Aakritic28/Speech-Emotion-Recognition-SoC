@@ -23,6 +23,8 @@ Video and pdf on concept clarification and visualization of RNN model.
 
 -[RNN](https://youtu.be/AsNTP8Kwu80?si=_LAOfQkt0frmINXM)
 
+-[LSTM intuition](https://youtu.be/YCzL96nL7j0?si=X6bwunT2Ech8gWVh)
+
 -[RNN pdf](https://www.cse.iitb.ac.in/~swaprava/courses/cs217/scribes/CS217_2024_lec13.pdf)
 
 For the coding part, we have provided the necessary comments for the implementation.
