@@ -12,7 +12,7 @@ Bonjour les amis, Let's start with week 3, where we will learn about Neural Netw
 
  ## Neural Network
  The below video tutorial consists of both the concept explanation and practical application (coding part) of NN on MNIST dataset.
- You have to watch only till the 7th video of the playlist. (8th video is no deep neural network, which is not our focus for this week)
+ You have to watch only till the 7th video of the playlist. (8th video is on deep neural network, which is not our focus for this week)
  
  -[Neural Network](https://youtu.be/mlk0rddP3L4?si=QmF_hb_xrwac3trX)
 
