@@ -1,48 +1,30 @@
 ## Speech-Emotion-Recognition-SoC
-#Week 1
+## Week 3
 
-Hello my dear friends, lets begin our endeavors with the basics of python and essential libraries.
+Bonjour les amis, Let's start with week 3, where we will learn about Neural Networks.
 
-1.NumPy assignment: You will be given a series of tasks to complete in the NumPy_Assignment.py file. Each task will involve using Numpy functions to perform specific operations on the given data. Read the comments in the script for instructions on each task. 
+#TASK 
 
-2.Matplotlib and pandas: You are given three exercises which will warmup you plotting skills.
+ You have to implement a basic Neural Network model from scratch and an RNN model using a library.
+ You also have to answer the short answer type Questions given in the RNNques.pdf and upload the answer pdf in the Google form link given below.
+ 
+ -[Answers](https://forms.gle/UV3haB5jKd5gTWic9)
 
-3.Question.py file, this is to test your basics and how you implement, what you have learnt.
+ ## Neural Network
+ The below video tutorial consists of both the concept explanation and practical application (coding part) of NN on MNIST dataset.
+ You have to watch only till the 7th video of the playlist. (8th video is no deep neural network, which is not our focus for this week)
+ 
+ -[Neural Network](https://youtu.be/mlk0rddP3L4?si=QmF_hb_xrwac3trX)
 
-## Week-1 Resources
+-[worked out example on backpropogation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
-## Python Basics
+## Recurrent Neural Network
+Video and pdf on concept clarification and visualization of RNN model.
 
-Throughout this course, you will primarily use Python for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics:
+-[RNN](https://youtu.be/AsNTP8Kwu80?si=_LAOfQkt0frmINXM)
 
-- [Python Basics Video](https://youtu.be/kqtD5dpn9C8?feature=shared)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [Python Basics Playlist](https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&feature=shared)
+-[LSTM intuition](https://youtu.be/YCzL96nL7j0?si=X6bwunT2Ech8gWVh)
 
-## Colab Notebooks
+-[RNN pdf](https://www.cse.iitb.ac.in/~swaprava/courses/cs217/scribes/CS217_2024_lec13.pdf)
 
-In this course, we'll use Colab Jupyter Notebooks for coding exercises. Colab allows you to write and run code in separate cells, facilitating easier debugging. It's a hosted Jupyter notebook service with free access to computing resources, including GPUs and TPUs. Learn the basics of Colab with this [introduction guide](https://youtu.be/iMlMfrXJYSg?feature=shared).
-
-## NumPy Basics
-
-NumPy (Numerical Python) is a fundamental library for linear algebra in Python. It plays a crucial role in AI/ML and data science by enabling efficient mathematical and logical operations on arrays. Explore NumPy through the following resources:
-
-- [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
-- [NumPy W3Schools Tutorial](https://www.w3schools.com/python/numpy/default.asp)
-- [NumPy Video Tutorial](https://youtu.be/QUT1VHiLmmI?feature=shared)
-
-## Matplotlib
-
-Matplotlib is Python's essential plotting library, widely used for data visualization. It supports various types of plots and is the foundation for other visualization packages like pandas and Seaborn. Get familiar with Matplotlib through these resources:
-
-- [Matplotlib W3Schools Intro](https://www.w3schools.com/python/matplotlib_intro.asp)
-- [Matplotlib Documentation](https://matplotlib.org/)
-- [Matplotlib Video Tutorial](https://youtu.be/OZOOLe2imFo?feature=shared)
-
-## Pandas
-
-Pandas is a Python library used for working with datasets. It is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. Pandas has data structures for data analysis. The most commonly used data structures are Series and DataFrame. Series is one-dimensional. It consists of one column. DataFrame is two dimensional. It consists of rows and columns. For basic introduction use the following guide:
-
-- [Pandas Documentation](https://pandas.pydata.org/)
-- [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
-- [Pandas Video Tutorial](https://youtu.be/vmEHCJofslg?feature=shared)
+For the coding part, we have provided the necessary comments for the implementation.
