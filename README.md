@@ -1,7 +1,7 @@
 ## Speech-Emotion-Recognition-SoC
 ## Week 3
 
-Bonjour les amis, Let's start with week 3, where we will learn about Neural Networks.
+Hello friends, Let's start with week 3, where we will learn about Neural Networks.
 
 #TASK 
 
