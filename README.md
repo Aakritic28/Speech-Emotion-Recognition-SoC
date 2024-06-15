@@ -1,30 +1,29 @@
 ## Speech-Emotion-Recognition-SoC
-## Week 3
+## Week 4
 
-Hello friends, Let's start with week 3, where we will learn about Neural Networks.
+Hola Amigos,Knock Knock it's me... week 4, we will learn about audio preprocessing in this week.
 
 #TASK 
 
- You have to implement a basic Neural Network model from scratch and an RNN model using a library.
- You also have to answer the short answer type Questions given in the RNNques.pdf and upload the answer pdf in the Google form link given below.
+ You have to complete an assignment that uses Librosa to preprocess data.
  
- -[Answers](https://forms.gle/UV3haB5jKd5gTWic9)
 
- ## Neural Network
- The below video tutorial consists of both the concept explanation and practical application (coding part) of NN on MNIST dataset.
- You have to watch only till the 7th video of the playlist. (8th video is on deep neural network, which is not our focus for this week)
- 
- -[Neural Network](https://youtu.be/mlk0rddP3L4?si=QmF_hb_xrwac3trX)
+ ## Why do we audio preprocessing ?
+Audio preprocessing is essential for improving the quality and consistency of audio data, which enhances the performance of machine learning models. Key steps include noise reduction to remove unwanted sounds, normalization to standardize audio levels, and segmentation to break audio into manageable chunks. Feature extraction, such as obtaining MFCCs, transforms raw audio into meaningful representations. These steps help reduce overfitting, improve computational efficiency, and ensure that the models focus on relevant audio features, leading to better accuracy and reliability in tasks like speech and music recognition.
 
--[worked out example on backpropogation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+## Some terms to know
+Sampling Rate: Number of audio samples per second; higher rates capture more detail.
 
-## Recurrent Neural Network
-Video and pdf on concept clarification and visualization of RNN model.
+Amplitude: Loudness of the audio signal; higher amplitude means louder sound.
 
--[RNN](https://youtu.be/AsNTP8Kwu80?si=_LAOfQkt0frmINXM)
+Frequency: Number of wave cycles per second; determines pitch.
 
--[LSTM intuition](https://youtu.be/YCzL96nL7j0?si=X6bwunT2Ech8gWVh)
+Waveforms: Show amplitude variations over time.
 
--[RNN pdf](https://www.cse.iitb.ac.in/~swaprava/courses/cs217/scribes/CS217_2024_lec13.pdf)
+Spectrograms: Display frequency content over time, useful for detailed audio analysis.
 
-For the coding part, we have provided the necessary comments for the implementation.
+## Librosa
+We are going to use Librosa for audio preprocessing
+
+-[Documentation](https://librosa.org/doc/latest/index.html)
+-[Video Tutorial](https://youtu.be/MhOdbtPhbLU?si=jgJOd2vQDj8f7Rdt)
