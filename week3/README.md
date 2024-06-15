@@ -27,4 +27,7 @@ Video and pdf on concept clarification and visualization of RNN model.
 
 -[RNN pdf](https://www.cse.iitb.ac.in/~swaprava/courses/cs217/scribes/CS217_2024_lec13.pdf)
 
+-[RNN using keras](https://youtu.be/3eZ56HERVbk?si=xKkj1Bb0MMwqlJN3)
+
+
 For the coding part, we have provided the necessary comments for the implementation.
